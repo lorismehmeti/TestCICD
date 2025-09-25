@@ -1,0 +1,8 @@
+.alpackages
+*.app
+.vscode/launch.json
+*.alcache
+*.json
+*.Translations/Flaconi.g.xlf
+!.codeRuleSets/FLA.ruleset.json
+!.vscode/settings.json
